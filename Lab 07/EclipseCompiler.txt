@@ -1,0 +1,652 @@
+6 Nov 2018 19:03:08 GMT: Log 'EclipseCompiler.txt' opened: 6 Nov 2018 19:03:08 GMT with name E:\CSE111_07_18101079(Demo)\EclipseCompiler.txt
+6 Nov 2018 19:45:48 GMT: diagnostics = javax.tools.DiagnosticCollector@ea88b8a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@bfb8d0a
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task06.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java, E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\MyString.java]
+6 Nov 2018 19:45:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4984de14' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:45:50 GMT: Compiler call returned
+6 Nov 2018 19:45:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@32bf1eed
+6 Nov 2018 19:45:50 GMT:  Kind = WARNING
+6 Nov 2018 19:45:50 GMT: Name = E:\CSE111_07_18101079(Demo)\Task01.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:45:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@30d7b4a0
+6 Nov 2018 19:45:50 GMT:  Kind = WARNING
+6 Nov 2018 19:45:50 GMT: Name = E:\CSE111_07_18101079(Demo)\Task02.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:45:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7a559c21
+6 Nov 2018 19:45:50 GMT:  Kind = WARNING
+6 Nov 2018 19:45:50 GMT: Name = E:\CSE111_07_18101079(Demo)\Task03.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:45:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4e1f7d8c
+6 Nov 2018 19:45:50 GMT:  Kind = WARNING
+6 Nov 2018 19:45:50 GMT: Name = E:\CSE111_07_18101079(Demo)\Task04.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:45:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5aafb26d
+6 Nov 2018 19:45:50 GMT:  Kind = WARNING
+6 Nov 2018 19:45:50 GMT: Name = E:\CSE111_07_18101079(Demo)\Task05.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:45:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@57d06f2c
+6 Nov 2018 19:45:50 GMT:  Kind = WARNING
+6 Nov 2018 19:45:50 GMT: Name = E:\CSE111_07_18101079(Demo)\Task06.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:45:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b25563
+6 Nov 2018 19:45:50 GMT:  Kind = WARNING
+6 Nov 2018 19:45:50 GMT: Name = E:\CSE111_07_18101079(Demo)\Task07.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:45:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3474bbc4
+6 Nov 2018 19:45:50 GMT:  Kind = WARNING
+6 Nov 2018 19:45:50 GMT: Name = E:\CSE111_07_18101079(Demo)\Task08.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:45:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13ef5bfd
+6 Nov 2018 19:45:50 GMT:  Kind = WARNING
+6 Nov 2018 19:45:50 GMT: Name = E:\CSE111_07_18101079(Demo)\Task09.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:45:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4712efa3
+6 Nov 2018 19:45:50 GMT:  Kind = WARNING
+6 Nov 2018 19:45:50 GMT: Name = E:\CSE111_07_18101079(Demo)\Task10.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:45:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5498a36f
+6 Nov 2018 19:45:50 GMT:  Kind = WARNING
+6 Nov 2018 19:45:50 GMT: Name = E:\CSE111_07_18101079(Demo)\Task11.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:45:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@45a398a3
+6 Nov 2018 19:45:50 GMT:  Kind = WARNING
+6 Nov 2018 19:45:50 GMT: Name = E:\CSE111_07_18101079(Demo)\Task12.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:45:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2c7a0359
+6 Nov 2018 19:45:50 GMT:  Kind = WARNING
+6 Nov 2018 19:45:50 GMT: Name = E:\CSE111_07_18101079(Demo)\Task13.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:45:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7c459e82
+6 Nov 2018 19:45:50 GMT:  Kind = WARNING
+6 Nov 2018 19:45:50 GMT: Name = E:\CSE111_07_18101079(Demo)\Task14.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:45:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6d57c9be
+6 Nov 2018 19:45:50 GMT:  Kind = WARNING
+6 Nov 2018 19:45:50 GMT: Name = E:\CSE111_07_18101079(Demo)\Task15.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:45:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@34e83237
+6 Nov 2018 19:45:50 GMT:  Kind = WARNING
+6 Nov 2018 19:45:50 GMT: Name = E:\CSE111_07_18101079(Demo)\MyString.java LineNo = 1 ColNo = 8 Msg = 'The import java.util is never used'
+6 Nov 2018 19:45:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@48749f38
+6 Nov 2018 19:45:50 GMT:  Kind = ERROR
+6 Nov 2018 19:45:50 GMT: Name = E:\CSE111_07_18101079(Demo)\MyString.java LineNo = 319 ColNo = 9 Msg = 'This method must return a result of type int'
+6 Nov 2018 19:45:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1895b93a
+6 Nov 2018 19:45:50 GMT:  Kind = ERROR
+6 Nov 2018 19:45:50 GMT: Name = E:\CSE111_07_18101079(Demo)\MyString.java LineNo = 323 ColNo = 9 Msg = 'This method must return a result of type int'
+6 Nov 2018 19:45:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4bdc89af
+6 Nov 2018 19:45:50 GMT:  Kind = ERROR
+6 Nov 2018 19:45:50 GMT: Name = E:\CSE111_07_18101079(Demo)\MyString.java LineNo = 327 ColNo = 9 Msg = 'This method must return a result of type int'
+6 Nov 2018 19:45:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3ed06369
+6 Nov 2018 19:45:50 GMT:  Kind = ERROR
+6 Nov 2018 19:45:50 GMT: Name = E:\CSE111_07_18101079(Demo)\MyString.java LineNo = 331 ColNo = 9 Msg = 'This method must return a result of type int'
+6 Nov 2018 19:45:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5231a6d4
+6 Nov 2018 19:45:50 GMT:  Kind = ERROR
+6 Nov 2018 19:45:50 GMT: Name = E:\CSE111_07_18101079(Demo)\MyString.java LineNo = 335 ColNo = 14 Msg = 'This method must return a result of type MyString'
+6 Nov 2018 19:46:18 GMT: diagnostics = javax.tools.DiagnosticCollector@19320adc
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@57ec8870
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task06.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java, E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\MyString.java]
+6 Nov 2018 19:46:18 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4cb4517f' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:46:19 GMT: Compiler call returned
+6 Nov 2018 19:46:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1007281f
+6 Nov 2018 19:46:19 GMT:  Kind = WARNING
+6 Nov 2018 19:46:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task01.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11223f62
+6 Nov 2018 19:46:19 GMT:  Kind = WARNING
+6 Nov 2018 19:46:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task02.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@65543af4
+6 Nov 2018 19:46:19 GMT:  Kind = WARNING
+6 Nov 2018 19:46:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task03.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@34a59dfc
+6 Nov 2018 19:46:19 GMT:  Kind = WARNING
+6 Nov 2018 19:46:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task04.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1dcb1ca7
+6 Nov 2018 19:46:19 GMT:  Kind = WARNING
+6 Nov 2018 19:46:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task05.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d12f953
+6 Nov 2018 19:46:19 GMT:  Kind = WARNING
+6 Nov 2018 19:46:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task06.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@59d5f39f
+6 Nov 2018 19:46:19 GMT:  Kind = WARNING
+6 Nov 2018 19:46:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task07.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4107df24
+6 Nov 2018 19:46:19 GMT:  Kind = WARNING
+6 Nov 2018 19:46:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task08.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4ecdd87
+6 Nov 2018 19:46:19 GMT:  Kind = WARNING
+6 Nov 2018 19:46:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task09.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e3e7428
+6 Nov 2018 19:46:19 GMT:  Kind = WARNING
+6 Nov 2018 19:46:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task10.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7801277b
+6 Nov 2018 19:46:19 GMT:  Kind = WARNING
+6 Nov 2018 19:46:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task11.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@78039a0
+6 Nov 2018 19:46:19 GMT:  Kind = WARNING
+6 Nov 2018 19:46:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task12.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6562cc32
+6 Nov 2018 19:46:19 GMT:  Kind = WARNING
+6 Nov 2018 19:46:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task13.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18806b82
+6 Nov 2018 19:46:19 GMT:  Kind = WARNING
+6 Nov 2018 19:46:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task14.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@694bad16
+6 Nov 2018 19:46:19 GMT:  Kind = WARNING
+6 Nov 2018 19:46:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task15.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6f80c4a6
+6 Nov 2018 19:46:19 GMT:  Kind = WARNING
+6 Nov 2018 19:46:19 GMT: Name = E:\CSE111_07_18101079(Demo)\MyString.java LineNo = 1 ColNo = 8 Msg = 'The import java.util is never used'
+6 Nov 2018 19:46:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cf09638
+6 Nov 2018 19:46:19 GMT:  Kind = ERROR
+6 Nov 2018 19:46:19 GMT: Name = E:\CSE111_07_18101079(Demo)\MyString.java LineNo = 339 ColNo = 14 Msg = 'This method must return a result of type MyString'
+6 Nov 2018 19:46:34 GMT: diagnostics = javax.tools.DiagnosticCollector@1d2c26b4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e02b96b
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task06.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java, E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\MyString.java]
+6 Nov 2018 19:46:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@736559a9' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:46:35 GMT: Compiler call returned
+6 Nov 2018 19:46:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@653a6609
+6 Nov 2018 19:46:35 GMT:  Kind = WARNING
+6 Nov 2018 19:46:35 GMT: Name = E:\CSE111_07_18101079(Demo)\Task01.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5a0a7e67
+6 Nov 2018 19:46:35 GMT:  Kind = WARNING
+6 Nov 2018 19:46:35 GMT: Name = E:\CSE111_07_18101079(Demo)\Task02.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@332f06f9
+6 Nov 2018 19:46:35 GMT:  Kind = WARNING
+6 Nov 2018 19:46:35 GMT: Name = E:\CSE111_07_18101079(Demo)\Task03.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c111d00
+6 Nov 2018 19:46:35 GMT:  Kind = WARNING
+6 Nov 2018 19:46:35 GMT: Name = E:\CSE111_07_18101079(Demo)\Task04.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2a2d2aa5
+6 Nov 2018 19:46:35 GMT:  Kind = WARNING
+6 Nov 2018 19:46:35 GMT: Name = E:\CSE111_07_18101079(Demo)\Task05.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@235d80c1
+6 Nov 2018 19:46:35 GMT:  Kind = WARNING
+6 Nov 2018 19:46:35 GMT: Name = E:\CSE111_07_18101079(Demo)\Task06.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@688e529d
+6 Nov 2018 19:46:35 GMT:  Kind = WARNING
+6 Nov 2018 19:46:35 GMT: Name = E:\CSE111_07_18101079(Demo)\Task07.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7c63ab91
+6 Nov 2018 19:46:35 GMT:  Kind = WARNING
+6 Nov 2018 19:46:35 GMT: Name = E:\CSE111_07_18101079(Demo)\Task08.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3fd8ceba
+6 Nov 2018 19:46:35 GMT:  Kind = WARNING
+6 Nov 2018 19:46:35 GMT: Name = E:\CSE111_07_18101079(Demo)\Task09.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@704c1a08
+6 Nov 2018 19:46:35 GMT:  Kind = WARNING
+6 Nov 2018 19:46:35 GMT: Name = E:\CSE111_07_18101079(Demo)\Task10.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6acca426
+6 Nov 2018 19:46:35 GMT:  Kind = WARNING
+6 Nov 2018 19:46:35 GMT: Name = E:\CSE111_07_18101079(Demo)\Task11.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b12b5cd
+6 Nov 2018 19:46:35 GMT:  Kind = WARNING
+6 Nov 2018 19:46:35 GMT: Name = E:\CSE111_07_18101079(Demo)\Task12.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7246170b
+6 Nov 2018 19:46:35 GMT:  Kind = WARNING
+6 Nov 2018 19:46:35 GMT: Name = E:\CSE111_07_18101079(Demo)\Task13.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@624adf11
+6 Nov 2018 19:46:35 GMT:  Kind = WARNING
+6 Nov 2018 19:46:35 GMT: Name = E:\CSE111_07_18101079(Demo)\Task14.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6da8baea
+6 Nov 2018 19:46:35 GMT:  Kind = WARNING
+6 Nov 2018 19:46:35 GMT: Name = E:\CSE111_07_18101079(Demo)\Task15.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@730ac64f
+6 Nov 2018 19:46:35 GMT:  Kind = WARNING
+6 Nov 2018 19:46:35 GMT: Name = E:\CSE111_07_18101079(Demo)\MyString.java LineNo = 1 ColNo = 8 Msg = 'The import java.util is never used'
+6 Nov 2018 19:46:56 GMT: diagnostics = javax.tools.DiagnosticCollector@4b91e9d6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@12a3c5d5
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task06.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java, E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\MyString.java]
+6 Nov 2018 19:46:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4ddc5616' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:46:57 GMT: Compiler call returned
+6 Nov 2018 19:46:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@67bfcd23
+6 Nov 2018 19:46:57 GMT:  Kind = WARNING
+6 Nov 2018 19:46:57 GMT: Name = E:\CSE111_07_18101079(Demo)\Task01.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5332cf37
+6 Nov 2018 19:46:57 GMT:  Kind = WARNING
+6 Nov 2018 19:46:57 GMT: Name = E:\CSE111_07_18101079(Demo)\Task02.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@33897adc
+6 Nov 2018 19:46:57 GMT:  Kind = WARNING
+6 Nov 2018 19:46:57 GMT: Name = E:\CSE111_07_18101079(Demo)\Task03.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@72b5f63b
+6 Nov 2018 19:46:57 GMT:  Kind = WARNING
+6 Nov 2018 19:46:57 GMT: Name = E:\CSE111_07_18101079(Demo)\Task04.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6bfafb9b
+6 Nov 2018 19:46:57 GMT:  Kind = WARNING
+6 Nov 2018 19:46:57 GMT: Name = E:\CSE111_07_18101079(Demo)\Task05.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2ef4daa4
+6 Nov 2018 19:46:57 GMT:  Kind = WARNING
+6 Nov 2018 19:46:57 GMT: Name = E:\CSE111_07_18101079(Demo)\Task06.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@56530a3c
+6 Nov 2018 19:46:57 GMT:  Kind = WARNING
+6 Nov 2018 19:46:57 GMT: Name = E:\CSE111_07_18101079(Demo)\Task07.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b8a2ae3
+6 Nov 2018 19:46:57 GMT:  Kind = WARNING
+6 Nov 2018 19:46:57 GMT: Name = E:\CSE111_07_18101079(Demo)\Task08.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@37903e2a
+6 Nov 2018 19:46:57 GMT:  Kind = WARNING
+6 Nov 2018 19:46:57 GMT: Name = E:\CSE111_07_18101079(Demo)\Task09.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3fb9f386
+6 Nov 2018 19:46:57 GMT:  Kind = WARNING
+6 Nov 2018 19:46:57 GMT: Name = E:\CSE111_07_18101079(Demo)\Task10.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@71750ca7
+6 Nov 2018 19:46:57 GMT:  Kind = WARNING
+6 Nov 2018 19:46:57 GMT: Name = E:\CSE111_07_18101079(Demo)\Task11.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2b72ed58
+6 Nov 2018 19:46:57 GMT:  Kind = WARNING
+6 Nov 2018 19:46:57 GMT: Name = E:\CSE111_07_18101079(Demo)\Task12.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d25f772
+6 Nov 2018 19:46:57 GMT:  Kind = WARNING
+6 Nov 2018 19:46:57 GMT: Name = E:\CSE111_07_18101079(Demo)\Task13.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6d700293
+6 Nov 2018 19:46:57 GMT:  Kind = WARNING
+6 Nov 2018 19:46:57 GMT: Name = E:\CSE111_07_18101079(Demo)\Task14.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:46:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@34b93bae
+6 Nov 2018 19:46:57 GMT:  Kind = WARNING
+6 Nov 2018 19:46:57 GMT: Name = E:\CSE111_07_18101079(Demo)\Task15.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:47:46 GMT: diagnostics = javax.tools.DiagnosticCollector@3cecba87
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5a1c5b71
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\MyString.java, E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task06.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java]
+6 Nov 2018 19:47:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5871f203' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:47:46 GMT: Compiler call returned
+6 Nov 2018 19:47:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@50bdc738
+6 Nov 2018 19:47:46 GMT:  Kind = ERROR
+6 Nov 2018 19:47:46 GMT: Name = E:\CSE111_07_18101079(Demo)\Task01.java LineNo = 14 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:47:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19d5249b
+6 Nov 2018 19:47:46 GMT:  Kind = ERROR
+6 Nov 2018 19:47:46 GMT: Name = E:\CSE111_07_18101079(Demo)\Task02.java LineNo = 21 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:47:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4594803d
+6 Nov 2018 19:47:46 GMT:  Kind = ERROR
+6 Nov 2018 19:47:46 GMT: Name = E:\CSE111_07_18101079(Demo)\Task03.java LineNo = 17 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:47:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@64148eed
+6 Nov 2018 19:47:46 GMT:  Kind = ERROR
+6 Nov 2018 19:47:46 GMT: Name = E:\CSE111_07_18101079(Demo)\Task04.java LineNo = 17 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:47:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5aae1150
+6 Nov 2018 19:47:46 GMT:  Kind = ERROR
+6 Nov 2018 19:47:46 GMT: Name = E:\CSE111_07_18101079(Demo)\Task05.java LineNo = 21 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:47:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6aef0762
+6 Nov 2018 19:47:46 GMT:  Kind = ERROR
+6 Nov 2018 19:47:46 GMT: Name = E:\CSE111_07_18101079(Demo)\Task06.java LineNo = 21 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:47:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b1bf76a
+6 Nov 2018 19:47:46 GMT:  Kind = ERROR
+6 Nov 2018 19:47:46 GMT: Name = E:\CSE111_07_18101079(Demo)\Task07.java LineNo = 21 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:47:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4b387302
+6 Nov 2018 19:47:46 GMT:  Kind = ERROR
+6 Nov 2018 19:47:46 GMT: Name = E:\CSE111_07_18101079(Demo)\Task08.java LineNo = 15 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:47:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@61b6cfa4
+6 Nov 2018 19:47:46 GMT:  Kind = ERROR
+6 Nov 2018 19:47:46 GMT: Name = E:\CSE111_07_18101079(Demo)\Task09.java LineNo = 15 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:47:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@737010e7
+6 Nov 2018 19:47:46 GMT:  Kind = ERROR
+6 Nov 2018 19:47:46 GMT: Name = E:\CSE111_07_18101079(Demo)\Task10.java LineNo = 18 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:47:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@27040944
+6 Nov 2018 19:47:46 GMT:  Kind = WARNING
+6 Nov 2018 19:47:46 GMT: Name = E:\CSE111_07_18101079(Demo)\Task11.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:47:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2f2ccec5
+6 Nov 2018 19:47:46 GMT:  Kind = WARNING
+6 Nov 2018 19:47:46 GMT: Name = E:\CSE111_07_18101079(Demo)\Task12.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:47:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@78b0ff6b
+6 Nov 2018 19:47:46 GMT:  Kind = WARNING
+6 Nov 2018 19:47:46 GMT: Name = E:\CSE111_07_18101079(Demo)\Task13.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:47:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b343fb2
+6 Nov 2018 19:47:46 GMT:  Kind = WARNING
+6 Nov 2018 19:47:46 GMT: Name = E:\CSE111_07_18101079(Demo)\Task14.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:47:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c7d49b9
+6 Nov 2018 19:47:46 GMT:  Kind = WARNING
+6 Nov 2018 19:47:46 GMT: Name = E:\CSE111_07_18101079(Demo)\Task15.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:48:11 GMT: diagnostics = javax.tools.DiagnosticCollector@3f8189bb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@63b40d7e
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\MyString.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task06.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java, E:\CSE111_07_18101079(Demo)\Task01.java]
+6 Nov 2018 19:48:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@15fbe7ee' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:48:12 GMT: Compiler call returned
+6 Nov 2018 19:48:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2c18147a
+6 Nov 2018 19:48:12 GMT:  Kind = ERROR
+6 Nov 2018 19:48:12 GMT: Name = E:\CSE111_07_18101079(Demo)\Task02.java LineNo = 21 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5b1de40d
+6 Nov 2018 19:48:12 GMT:  Kind = ERROR
+6 Nov 2018 19:48:12 GMT: Name = E:\CSE111_07_18101079(Demo)\Task03.java LineNo = 17 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a287112
+6 Nov 2018 19:48:12 GMT:  Kind = ERROR
+6 Nov 2018 19:48:12 GMT: Name = E:\CSE111_07_18101079(Demo)\Task04.java LineNo = 17 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@27fa7ef1
+6 Nov 2018 19:48:12 GMT:  Kind = ERROR
+6 Nov 2018 19:48:12 GMT: Name = E:\CSE111_07_18101079(Demo)\Task05.java LineNo = 21 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4bad15b0
+6 Nov 2018 19:48:12 GMT:  Kind = ERROR
+6 Nov 2018 19:48:12 GMT: Name = E:\CSE111_07_18101079(Demo)\Task06.java LineNo = 21 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7f24ad44
+6 Nov 2018 19:48:12 GMT:  Kind = ERROR
+6 Nov 2018 19:48:12 GMT: Name = E:\CSE111_07_18101079(Demo)\Task07.java LineNo = 21 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@36cdf353
+6 Nov 2018 19:48:12 GMT:  Kind = ERROR
+6 Nov 2018 19:48:12 GMT: Name = E:\CSE111_07_18101079(Demo)\Task08.java LineNo = 15 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@42b41e8d
+6 Nov 2018 19:48:12 GMT:  Kind = ERROR
+6 Nov 2018 19:48:12 GMT: Name = E:\CSE111_07_18101079(Demo)\Task09.java LineNo = 15 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@619793fe
+6 Nov 2018 19:48:12 GMT:  Kind = ERROR
+6 Nov 2018 19:48:12 GMT: Name = E:\CSE111_07_18101079(Demo)\Task10.java LineNo = 18 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3b034c05
+6 Nov 2018 19:48:12 GMT:  Kind = WARNING
+6 Nov 2018 19:48:12 GMT: Name = E:\CSE111_07_18101079(Demo)\Task11.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:48:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@628d775d
+6 Nov 2018 19:48:12 GMT:  Kind = WARNING
+6 Nov 2018 19:48:12 GMT: Name = E:\CSE111_07_18101079(Demo)\Task12.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:48:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@af5df7
+6 Nov 2018 19:48:12 GMT:  Kind = WARNING
+6 Nov 2018 19:48:12 GMT: Name = E:\CSE111_07_18101079(Demo)\Task13.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:48:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5dfa267f
+6 Nov 2018 19:48:12 GMT:  Kind = WARNING
+6 Nov 2018 19:48:12 GMT: Name = E:\CSE111_07_18101079(Demo)\Task14.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:48:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7cb83aa1
+6 Nov 2018 19:48:12 GMT:  Kind = WARNING
+6 Nov 2018 19:48:12 GMT: Name = E:\CSE111_07_18101079(Demo)\Task15.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:48:19 GMT: diagnostics = javax.tools.DiagnosticCollector@6ad54760
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3476776c
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\MyString.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task06.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java, E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java]
+6 Nov 2018 19:48:19 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7d734d44' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:48:19 GMT: Compiler call returned
+6 Nov 2018 19:48:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4287180e
+6 Nov 2018 19:48:19 GMT:  Kind = ERROR
+6 Nov 2018 19:48:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task03.java LineNo = 17 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17c07acd
+6 Nov 2018 19:48:19 GMT:  Kind = ERROR
+6 Nov 2018 19:48:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task04.java LineNo = 17 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1149c0ad
+6 Nov 2018 19:48:19 GMT:  Kind = ERROR
+6 Nov 2018 19:48:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task05.java LineNo = 21 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6d341db9
+6 Nov 2018 19:48:19 GMT:  Kind = ERROR
+6 Nov 2018 19:48:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task06.java LineNo = 21 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17092f79
+6 Nov 2018 19:48:19 GMT:  Kind = ERROR
+6 Nov 2018 19:48:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task07.java LineNo = 21 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@38b3947
+6 Nov 2018 19:48:19 GMT:  Kind = ERROR
+6 Nov 2018 19:48:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task08.java LineNo = 15 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5c98dd33
+6 Nov 2018 19:48:19 GMT:  Kind = ERROR
+6 Nov 2018 19:48:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task09.java LineNo = 15 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@110cdacc
+6 Nov 2018 19:48:19 GMT:  Kind = ERROR
+6 Nov 2018 19:48:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task10.java LineNo = 18 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4fa04d73
+6 Nov 2018 19:48:19 GMT:  Kind = WARNING
+6 Nov 2018 19:48:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task11.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:48:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15bb14c1
+6 Nov 2018 19:48:19 GMT:  Kind = WARNING
+6 Nov 2018 19:48:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task12.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:48:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f503200
+6 Nov 2018 19:48:19 GMT:  Kind = WARNING
+6 Nov 2018 19:48:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task13.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:48:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@78fd539c
+6 Nov 2018 19:48:19 GMT:  Kind = WARNING
+6 Nov 2018 19:48:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task14.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:48:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@35fb4225
+6 Nov 2018 19:48:19 GMT:  Kind = WARNING
+6 Nov 2018 19:48:19 GMT: Name = E:\CSE111_07_18101079(Demo)\Task15.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:48:30 GMT: diagnostics = javax.tools.DiagnosticCollector@50f7aaa9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@43c797aa
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\MyString.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task06.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java, E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java]
+6 Nov 2018 19:48:30 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@72b14d4f' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:48:38 GMT: Compiler call returned
+6 Nov 2018 19:48:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@576858f5
+6 Nov 2018 19:48:38 GMT:  Kind = ERROR
+6 Nov 2018 19:48:38 GMT: Name = E:\CSE111_07_18101079(Demo)\Task04.java LineNo = 17 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6c04be8f
+6 Nov 2018 19:48:38 GMT:  Kind = ERROR
+6 Nov 2018 19:48:38 GMT: Name = E:\CSE111_07_18101079(Demo)\Task05.java LineNo = 21 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bccadca
+6 Nov 2018 19:48:38 GMT:  Kind = ERROR
+6 Nov 2018 19:48:38 GMT: Name = E:\CSE111_07_18101079(Demo)\Task06.java LineNo = 21 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@401ddddf
+6 Nov 2018 19:48:38 GMT:  Kind = ERROR
+6 Nov 2018 19:48:38 GMT: Name = E:\CSE111_07_18101079(Demo)\Task07.java LineNo = 21 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@55278ad9
+6 Nov 2018 19:48:38 GMT:  Kind = ERROR
+6 Nov 2018 19:48:38 GMT: Name = E:\CSE111_07_18101079(Demo)\Task08.java LineNo = 15 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c9ea634
+6 Nov 2018 19:48:38 GMT:  Kind = ERROR
+6 Nov 2018 19:48:38 GMT: Name = E:\CSE111_07_18101079(Demo)\Task09.java LineNo = 15 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@62c2ea90
+6 Nov 2018 19:48:38 GMT:  Kind = ERROR
+6 Nov 2018 19:48:38 GMT: Name = E:\CSE111_07_18101079(Demo)\Task10.java LineNo = 18 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4c9f3032
+6 Nov 2018 19:48:38 GMT:  Kind = WARNING
+6 Nov 2018 19:48:38 GMT: Name = E:\CSE111_07_18101079(Demo)\Task11.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:48:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@25071a3a
+6 Nov 2018 19:48:38 GMT:  Kind = WARNING
+6 Nov 2018 19:48:38 GMT: Name = E:\CSE111_07_18101079(Demo)\Task12.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:48:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4cc1b7a8
+6 Nov 2018 19:48:38 GMT:  Kind = WARNING
+6 Nov 2018 19:48:38 GMT: Name = E:\CSE111_07_18101079(Demo)\Task13.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:48:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@392242ca
+6 Nov 2018 19:48:38 GMT:  Kind = WARNING
+6 Nov 2018 19:48:38 GMT: Name = E:\CSE111_07_18101079(Demo)\Task14.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:48:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c09fb7c
+6 Nov 2018 19:48:38 GMT:  Kind = WARNING
+6 Nov 2018 19:48:38 GMT: Name = E:\CSE111_07_18101079(Demo)\Task15.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:48:48 GMT: diagnostics = javax.tools.DiagnosticCollector@e5da73a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5466b57c
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\MyString.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task06.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java, E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java]
+6 Nov 2018 19:48:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@202266f6' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:48:49 GMT: Compiler call returned
+6 Nov 2018 19:48:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@73d1f645
+6 Nov 2018 19:48:49 GMT:  Kind = ERROR
+6 Nov 2018 19:48:49 GMT: Name = E:\CSE111_07_18101079(Demo)\Task05.java LineNo = 21 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7e666098
+6 Nov 2018 19:48:49 GMT:  Kind = ERROR
+6 Nov 2018 19:48:49 GMT: Name = E:\CSE111_07_18101079(Demo)\Task06.java LineNo = 21 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60a256b8
+6 Nov 2018 19:48:49 GMT:  Kind = ERROR
+6 Nov 2018 19:48:49 GMT: Name = E:\CSE111_07_18101079(Demo)\Task07.java LineNo = 21 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18cd6aed
+6 Nov 2018 19:48:49 GMT:  Kind = ERROR
+6 Nov 2018 19:48:49 GMT: Name = E:\CSE111_07_18101079(Demo)\Task08.java LineNo = 15 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@64d2c46f
+6 Nov 2018 19:48:49 GMT:  Kind = ERROR
+6 Nov 2018 19:48:49 GMT: Name = E:\CSE111_07_18101079(Demo)\Task09.java LineNo = 15 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@297d1acd
+6 Nov 2018 19:48:49 GMT:  Kind = ERROR
+6 Nov 2018 19:48:49 GMT: Name = E:\CSE111_07_18101079(Demo)\Task10.java LineNo = 18 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:48:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5b189ecc
+6 Nov 2018 19:48:49 GMT:  Kind = WARNING
+6 Nov 2018 19:48:49 GMT: Name = E:\CSE111_07_18101079(Demo)\Task11.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:48:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@28710d40
+6 Nov 2018 19:48:49 GMT:  Kind = WARNING
+6 Nov 2018 19:48:49 GMT: Name = E:\CSE111_07_18101079(Demo)\Task12.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:48:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5af2559d
+6 Nov 2018 19:48:49 GMT:  Kind = WARNING
+6 Nov 2018 19:48:49 GMT: Name = E:\CSE111_07_18101079(Demo)\Task13.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:48:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b98977c
+6 Nov 2018 19:48:49 GMT:  Kind = WARNING
+6 Nov 2018 19:48:49 GMT: Name = E:\CSE111_07_18101079(Demo)\Task14.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:48:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4e9843d
+6 Nov 2018 19:48:49 GMT:  Kind = WARNING
+6 Nov 2018 19:48:49 GMT: Name = E:\CSE111_07_18101079(Demo)\Task15.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:49:04 GMT: diagnostics = javax.tools.DiagnosticCollector@5623eeff
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@906c97a
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\MyString.java, E:\CSE111_07_18101079(Demo)\Task06.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java, E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java]
+6 Nov 2018 19:49:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@390c1bb1' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:49:04 GMT: Compiler call returned
+6 Nov 2018 19:49:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6ba5131a
+6 Nov 2018 19:49:04 GMT:  Kind = ERROR
+6 Nov 2018 19:49:04 GMT: Name = E:\CSE111_07_18101079(Demo)\Task06.java LineNo = 21 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:49:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2fad82e
+6 Nov 2018 19:49:04 GMT:  Kind = ERROR
+6 Nov 2018 19:49:04 GMT: Name = E:\CSE111_07_18101079(Demo)\Task07.java LineNo = 21 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:49:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@24f0c251
+6 Nov 2018 19:49:04 GMT:  Kind = ERROR
+6 Nov 2018 19:49:04 GMT: Name = E:\CSE111_07_18101079(Demo)\Task08.java LineNo = 15 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:49:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@28f61ca0
+6 Nov 2018 19:49:04 GMT:  Kind = ERROR
+6 Nov 2018 19:49:04 GMT: Name = E:\CSE111_07_18101079(Demo)\Task09.java LineNo = 15 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:49:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6b88f767
+6 Nov 2018 19:49:04 GMT:  Kind = ERROR
+6 Nov 2018 19:49:04 GMT: Name = E:\CSE111_07_18101079(Demo)\Task10.java LineNo = 18 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:49:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3fe77990
+6 Nov 2018 19:49:04 GMT:  Kind = WARNING
+6 Nov 2018 19:49:04 GMT: Name = E:\CSE111_07_18101079(Demo)\Task11.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:49:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1da7c677
+6 Nov 2018 19:49:04 GMT:  Kind = WARNING
+6 Nov 2018 19:49:04 GMT: Name = E:\CSE111_07_18101079(Demo)\Task12.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:49:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5acca7f
+6 Nov 2018 19:49:04 GMT:  Kind = WARNING
+6 Nov 2018 19:49:04 GMT: Name = E:\CSE111_07_18101079(Demo)\Task13.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:49:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@29333662
+6 Nov 2018 19:49:04 GMT:  Kind = WARNING
+6 Nov 2018 19:49:04 GMT: Name = E:\CSE111_07_18101079(Demo)\Task14.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:49:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2d9cf12d
+6 Nov 2018 19:49:04 GMT:  Kind = WARNING
+6 Nov 2018 19:49:04 GMT: Name = E:\CSE111_07_18101079(Demo)\Task15.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:49:20 GMT: diagnostics = javax.tools.DiagnosticCollector@16e61973
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b3add67
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\MyString.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java, E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task06.java]
+6 Nov 2018 19:49:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1119deb8' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:49:20 GMT: Compiler call returned
+6 Nov 2018 19:49:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2818de
+6 Nov 2018 19:49:20 GMT:  Kind = ERROR
+6 Nov 2018 19:49:20 GMT: Name = E:\CSE111_07_18101079(Demo)\Task07.java LineNo = 21 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:49:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5e67aef2
+6 Nov 2018 19:49:20 GMT:  Kind = ERROR
+6 Nov 2018 19:49:20 GMT: Name = E:\CSE111_07_18101079(Demo)\Task08.java LineNo = 15 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:49:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@53501464
+6 Nov 2018 19:49:20 GMT:  Kind = ERROR
+6 Nov 2018 19:49:20 GMT: Name = E:\CSE111_07_18101079(Demo)\Task09.java LineNo = 15 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:49:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6d5d4eaf
+6 Nov 2018 19:49:20 GMT:  Kind = ERROR
+6 Nov 2018 19:49:20 GMT: Name = E:\CSE111_07_18101079(Demo)\Task10.java LineNo = 18 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:49:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2df34532
+6 Nov 2018 19:49:20 GMT:  Kind = WARNING
+6 Nov 2018 19:49:20 GMT: Name = E:\CSE111_07_18101079(Demo)\Task11.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:49:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4e006e40
+6 Nov 2018 19:49:20 GMT:  Kind = WARNING
+6 Nov 2018 19:49:20 GMT: Name = E:\CSE111_07_18101079(Demo)\Task12.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:49:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d20b0d0
+6 Nov 2018 19:49:20 GMT:  Kind = WARNING
+6 Nov 2018 19:49:20 GMT: Name = E:\CSE111_07_18101079(Demo)\Task13.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:49:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a8faded
+6 Nov 2018 19:49:20 GMT:  Kind = WARNING
+6 Nov 2018 19:49:20 GMT: Name = E:\CSE111_07_18101079(Demo)\Task14.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:49:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2de2b15b
+6 Nov 2018 19:49:20 GMT:  Kind = WARNING
+6 Nov 2018 19:49:20 GMT: Name = E:\CSE111_07_18101079(Demo)\Task15.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:49:32 GMT: diagnostics = javax.tools.DiagnosticCollector@ec89761
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@63d71a3c
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\MyString.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java, E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task06.java, E:\CSE111_07_18101079(Demo)\Task07.java]
+6 Nov 2018 19:49:32 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2d098df7' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:49:33 GMT: Compiler call returned
+6 Nov 2018 19:49:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@70bc035
+6 Nov 2018 19:49:33 GMT:  Kind = ERROR
+6 Nov 2018 19:49:33 GMT: Name = E:\CSE111_07_18101079(Demo)\Task08.java LineNo = 15 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:49:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2707367b
+6 Nov 2018 19:49:33 GMT:  Kind = ERROR
+6 Nov 2018 19:49:33 GMT: Name = E:\CSE111_07_18101079(Demo)\Task09.java LineNo = 15 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:49:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@22568996
+6 Nov 2018 19:49:33 GMT:  Kind = ERROR
+6 Nov 2018 19:49:33 GMT: Name = E:\CSE111_07_18101079(Demo)\Task10.java LineNo = 18 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:49:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4621a909
+6 Nov 2018 19:49:33 GMT:  Kind = WARNING
+6 Nov 2018 19:49:33 GMT: Name = E:\CSE111_07_18101079(Demo)\Task11.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:49:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f72c390
+6 Nov 2018 19:49:33 GMT:  Kind = WARNING
+6 Nov 2018 19:49:33 GMT: Name = E:\CSE111_07_18101079(Demo)\Task12.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:49:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1589aeb
+6 Nov 2018 19:49:33 GMT:  Kind = WARNING
+6 Nov 2018 19:49:33 GMT: Name = E:\CSE111_07_18101079(Demo)\Task13.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:49:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17d4a96f
+6 Nov 2018 19:49:33 GMT:  Kind = WARNING
+6 Nov 2018 19:49:33 GMT: Name = E:\CSE111_07_18101079(Demo)\Task14.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:49:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5cf6237d
+6 Nov 2018 19:49:33 GMT:  Kind = WARNING
+6 Nov 2018 19:49:33 GMT: Name = E:\CSE111_07_18101079(Demo)\Task15.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:49:41 GMT: diagnostics = javax.tools.DiagnosticCollector@6894ee9e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@38783109
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\MyString.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java, E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task06.java]
+6 Nov 2018 19:49:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@67aa1ba9' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:49:42 GMT: Compiler call returned
+6 Nov 2018 19:49:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@67af78eb
+6 Nov 2018 19:49:42 GMT:  Kind = ERROR
+6 Nov 2018 19:49:42 GMT: Name = E:\CSE111_07_18101079(Demo)\Task08.java LineNo = 15 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:49:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6f072ac
+6 Nov 2018 19:49:42 GMT:  Kind = ERROR
+6 Nov 2018 19:49:42 GMT: Name = E:\CSE111_07_18101079(Demo)\Task09.java LineNo = 15 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:49:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2bb16f0a
+6 Nov 2018 19:49:42 GMT:  Kind = ERROR
+6 Nov 2018 19:49:42 GMT: Name = E:\CSE111_07_18101079(Demo)\Task10.java LineNo = 18 ColNo = 8 Msg = 'Syntax error on token "close", Identifier expected after this token'
+6 Nov 2018 19:49:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ccf77ef
+6 Nov 2018 19:49:42 GMT:  Kind = WARNING
+6 Nov 2018 19:49:42 GMT: Name = E:\CSE111_07_18101079(Demo)\Task11.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:49:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@103b3ebd
+6 Nov 2018 19:49:42 GMT:  Kind = WARNING
+6 Nov 2018 19:49:42 GMT: Name = E:\CSE111_07_18101079(Demo)\Task12.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:49:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@155b5b04
+6 Nov 2018 19:49:42 GMT:  Kind = WARNING
+6 Nov 2018 19:49:42 GMT: Name = E:\CSE111_07_18101079(Demo)\Task13.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:49:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3532bf9a
+6 Nov 2018 19:49:42 GMT:  Kind = WARNING
+6 Nov 2018 19:49:42 GMT: Name = E:\CSE111_07_18101079(Demo)\Task14.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:49:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4235c6dc
+6 Nov 2018 19:49:42 GMT:  Kind = WARNING
+6 Nov 2018 19:49:42 GMT: Name = E:\CSE111_07_18101079(Demo)\Task15.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:50:33 GMT: diagnostics = javax.tools.DiagnosticCollector@6272a0b6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@8f6c4f5
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\MyString.java, E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task06.java, E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java]
+6 Nov 2018 19:50:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2dec2f2d' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:50:34 GMT: Compiler call returned
+6 Nov 2018 19:52:07 GMT: diagnostics = javax.tools.DiagnosticCollector@6f95aa26
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1cfb0468
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task06.java, E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java, E:\CSE111_07_18101079(Demo)\MyString.java]
+6 Nov 2018 19:52:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@69e9d543' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:52:08 GMT: Compiler call returned
+6 Nov 2018 19:54:16 GMT: diagnostics = javax.tools.DiagnosticCollector@30eb749f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@15f6aac6
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task06.java, E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java, E:\CSE111_07_18101079(Demo)\MyString.java]
+6 Nov 2018 19:54:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7552fb6f' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:54:17 GMT: Compiler call returned
+6 Nov 2018 19:54:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5210e36e
+6 Nov 2018 19:54:17 GMT:  Kind = ERROR
+6 Nov 2018 19:54:17 GMT: Name = E:\CSE111_07_18101079(Demo)\MyString.java LineNo = 356 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+6 Nov 2018 19:54:21 GMT: diagnostics = javax.tools.DiagnosticCollector@690ecd62
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18d67def
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task06.java, E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java, E:\CSE111_07_18101079(Demo)\MyString.java]
+6 Nov 2018 19:54:21 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5736a2b0' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:54:22 GMT: Compiler call returned
+6 Nov 2018 19:55:02 GMT: diagnostics = javax.tools.DiagnosticCollector@2f337a46
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@429dfc2f
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task06.java, E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java, E:\CSE111_07_18101079(Demo)\MyString.java]
+6 Nov 2018 19:55:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6548d7d' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:55:03 GMT: Compiler call returned
+6 Nov 2018 19:55:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@79d0d11a
+6 Nov 2018 19:55:03 GMT:  Kind = ERROR
+6 Nov 2018 19:55:03 GMT: Name = E:\CSE111_07_18101079(Demo)\MyString.java LineNo = 361 ColNo = 43 Msg = 'charSeq cannot be resolved to a variable'
+6 Nov 2018 19:55:22 GMT: diagnostics = javax.tools.DiagnosticCollector@452f27b3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@474b599d
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task06.java, E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java, E:\CSE111_07_18101079(Demo)\MyString.java]
+6 Nov 2018 19:55:22 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@10dba21c' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:55:23 GMT: Compiler call returned
+6 Nov 2018 19:57:56 GMT: diagnostics = javax.tools.DiagnosticCollector@7c6a3495
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6cdd46e3
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task06.java, E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java, E:\CSE111_07_18101079(Demo)\MyString.java, E:\CSE111_07_18101079(Demo)\Task18.java]
+6 Nov 2018 19:57:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@57b50d86' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:58:00 GMT: Compiler call returned
+6 Nov 2018 19:59:16 GMT: diagnostics = javax.tools.DiagnosticCollector@3fa0a6f1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2ce6e5a4
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task06.java, E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java, E:\CSE111_07_18101079(Demo)\MyString.java, E:\CSE111_07_18101079(Demo)\Task18.java]
+6 Nov 2018 19:59:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2afa0c76' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:59:17 GMT: Compiler call returned
+6 Nov 2018 19:59:47 GMT: diagnostics = javax.tools.DiagnosticCollector@657549d3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@468520a6
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task06.java, E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java, E:\CSE111_07_18101079(Demo)\MyString.java, E:\CSE111_07_18101079(Demo)\Task18.java, E:\CSE111_07_18101079(Demo)\Task19.java]
+6 Nov 2018 19:59:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@162b04b4' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:59:48 GMT: Compiler call returned
+6 Nov 2018 20:08:31 GMT: diagnostics = javax.tools.DiagnosticCollector@7395a357
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@695f9326
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task06.java, E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java, E:\CSE111_07_18101079(Demo)\MyString.java, E:\CSE111_07_18101079(Demo)\Task18.java, E:\CSE111_07_18101079(Demo)\Task19.java, E:\CSE111_07_18101079(Demo)\Task20.java]
+6 Nov 2018 20:08:31 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7a22e89f' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 20:08:36 GMT: Compiler call returned
+6 Nov 2018 20:10:07 GMT: diagnostics = javax.tools.DiagnosticCollector@7bed98b4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a459fe9
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task06.java, E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java, E:\CSE111_07_18101079(Demo)\MyString.java, E:\CSE111_07_18101079(Demo)\Task18.java, E:\CSE111_07_18101079(Demo)\Task19.java, E:\CSE111_07_18101079(Demo)\Task20.java]
+6 Nov 2018 20:10:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@92fdb79' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 20:10:08 GMT: Compiler call returned
+6 Nov 2018 20:11:41 GMT: diagnostics = javax.tools.DiagnosticCollector@56e5430
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@65a83dbb
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task06.java, E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java, E:\CSE111_07_18101079(Demo)\Task18.java, E:\CSE111_07_18101079(Demo)\Task19.java, E:\CSE111_07_18101079(Demo)\Task20.java, E:\CSE111_07_18101079(Demo)\MyString.java]
+6 Nov 2018 20:11:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@44b44bb6' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 20:11:42 GMT: Compiler call returned
+6 Nov 2018 20:12:58 GMT: diagnostics = javax.tools.DiagnosticCollector@27b8436f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5ef545b0
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task06.java, E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java, E:\CSE111_07_18101079(Demo)\Task18.java, E:\CSE111_07_18101079(Demo)\Task19.java, E:\CSE111_07_18101079(Demo)\MyString.java, E:\CSE111_07_18101079(Demo)\Task20.java]
+6 Nov 2018 20:12:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@78a457d6' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 20:12:59 GMT: Compiler call returned
+6 Nov 2018 20:12:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@74875aa2
+6 Nov 2018 20:12:59 GMT:  Kind = ERROR
+6 Nov 2018 20:12:59 GMT: Name = E:\CSE111_07_18101079(Demo)\Task20.java LineNo = 18 ColNo = 13 Msg = 'Syntax error, insert "; ; ) Statement" to complete ForStatement'
+6 Nov 2018 20:13:52 GMT: diagnostics = javax.tools.DiagnosticCollector@29e4e731
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@aa7c30d
+fileObjects = [E:\CSE111_07_18101079(Demo)\Task16.java, E:\CSE111_07_18101079(Demo)\Task17.java, E:\CSE111_07_18101079(Demo)\Task01.java, E:\CSE111_07_18101079(Demo)\Task02.java, E:\CSE111_07_18101079(Demo)\Task03.java, E:\CSE111_07_18101079(Demo)\Task04.java, E:\CSE111_07_18101079(Demo)\Task05.java, E:\CSE111_07_18101079(Demo)\Task07.java, E:\CSE111_07_18101079(Demo)\Task06.java, E:\CSE111_07_18101079(Demo)\Task11.java, E:\CSE111_07_18101079(Demo)\Task12.java, E:\CSE111_07_18101079(Demo)\Task13.java, E:\CSE111_07_18101079(Demo)\Task14.java, E:\CSE111_07_18101079(Demo)\Task15.java, E:\CSE111_07_18101079(Demo)\Task08.java, E:\CSE111_07_18101079(Demo)\Task09.java, E:\CSE111_07_18101079(Demo)\Task10.java, E:\CSE111_07_18101079(Demo)\Task18.java, E:\CSE111_07_18101079(Demo)\Task19.java, E:\CSE111_07_18101079(Demo)\MyString.java, E:\CSE111_07_18101079(Demo)\Task20.java]
+6 Nov 2018 20:13:52 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2ce7bdaf' with options [-Xlint:path, -Xlint:switchcheck, -Xlint:finally, -Xlint:deprecation, -Xlint:fallthrough, -Xlint:unchecked, -Xlint:serial, -g, -classpath, E:\CSE111_07_18101079(Demo);F:\DrJava for SystemEngineer\drjava-beta-20160913-225446.exe]
+6 Nov 2018 20:13:53 GMT: Compiler call returned
